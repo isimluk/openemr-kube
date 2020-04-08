@@ -1,5 +1,7 @@
 # openemr-kube
 
+[![openmr image build](https://quay.io/repository/openemr/openemr/status "openmr image build")](https://quay.io/repository/openemr/openemr)
+
 ## Deployment in OpenShift (v3 or v4)
 
 ```
