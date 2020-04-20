@@ -49,7 +49,7 @@ auto_setup() {
 
 
 
-mv /var/www/localhost/htdocs/openemr/sites-seed/* /var/www/localhost/htdocs/openemr/sites
+mv -a /var/www/localhost/htdocs/openemr/sites-seed/* /var/www/localhost/htdocs/openemr/sites
 
 echo "Running quick setup!"
 
